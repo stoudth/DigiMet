@@ -14,6 +14,10 @@ import requests
 #soumibardhan10, ankit_kumar_, &amp; abhigoya. (2022, December 11).
 # Tkinter application to switch between different page frames.
 # GeeksforGeeks. https://www.geeksforgeeks.org/tkinter-application-to-switch-between-different-page-frames/
+
+#The Metropolitan Museum of Arts' API:
+#The Metropolitan Museum of Art. (n.d.-a). The Metropolitan Museum of Art Collection API. Github Pages.
+# https://metmuseum.github.io/#search 
 #____________________________________________________________
 
 #Global Variables
